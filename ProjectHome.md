@@ -1,0 +1,3 @@
+Module for creating and reading netstring streams. For more information, see the following blog post...
+
+http://www.willmcgugan.com/2008/01/19/netstring-theory/
